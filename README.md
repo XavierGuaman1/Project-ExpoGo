@@ -22,3 +22,18 @@ Hice pequeñas mejoras en la estructura del código para mejorar la legibilidad.
 
 
 
+¿Qué problemas específicos de rendimiento o mantenibilidad se identificaron en la aplicación original?
+- al momento que tuvo que hacer cambios al momento de agregar nuevas funciones y al momento de importar ya que tuve que guiarme mucho en la documentacion
+¿Cómo se aseguró que el refactoring no afectara negativamente la funcionalidad existente?
+- la verdad al inicio me daba muchos errores al momento de querer vincular con el movil pero con un poco de ayuda con chatgpt lo solucione
+¿Qué mejoras de rendimiento y mantenibilidad se lograron con el refactoring?
+- se logro que el codigo sea mas legible y se pueda entender 
+¿Cuáles fueron los desafíos más significativos durante el proceso de refactoring y cómo se superaron?
+al momento que se creo nuevos archivos por lo que las importaciones no funcionaban y tuve que investigar mucho para encontrar los errores 
+¿Qué impacto tuvo el refactoring en la experiencia del usuario final?
+- que el codigo se puede entender y se puede manajer de una manera sencilla y divertida
+¿Cómo se podrían aplicar las lecciones aprendidas en este proyecto a futuros proyectos de desarrollo y refactoring?
+- al momento que se desee crear una aplicacion movil ya que es una manera facil de visualizar y entender el codigo
+
+
+
